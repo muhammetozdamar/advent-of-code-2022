@@ -3,9 +3,9 @@
 # C = Z = SCISSORS  = 3 # 67 - 90
 # Y>X X>Z Z>Y 
 
-# WIN = 6 
-# DRAW = 3
-# LOSE = 0
+# WIN  = 6p 
+# DRAW = 3p
+# LOSE = 0p
 
 total_score = 0
 with open("day2\input.txt") as file:
