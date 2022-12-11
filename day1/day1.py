@@ -1,4 +1,4 @@
-with open("input.txt") as file:
+with open("day1\input.txt") as file:
     text = file.read()
     elves = text.split("\n\n")
     calories = []
